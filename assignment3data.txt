@@ -1,0 +1,680 @@
+
+	 Welcome to Mustafa's Zombie Combat Game!
+	 You are about to fight 4 other zombies
+	 Until the last zombie is left standing
+
+What is your name?
+Mustafa's Health:  **********
+Player 2's Health: **********
+Player 3's Health: **********
+Player 4's Health: **********
+Player 5's Health: **********
+
+Mustafa it's your turn!
+Mustafa, which zombie do you want to attack?
+Please choose zombie 2, 3, 4 or 5 & a zombie which is not dead
+
+Mustafa decides to Attack Player 2!
+Mustafa Attacks with 39 damage!
+Player 2 Health is reduced from 100 to 61!
+
+
+It's Player 2's turn!
+Player 2 decides to Attack Player 3!
+Player 2 Attacks with 45 damage!
+Player 3 Health is reduced from 100 to 55!
+
+
+It's Player 3's turn!
+Player 3 decides to Attack Player 5!
+Player 3 Attacks with 29 damage!
+Player 5 Health is reduced from 100 to 71!
+
+
+It's Player 4's turn!
+Player 4 decides to Attack Player 5!
+Player 4 Attacks with 39 damage!
+Player 5 Health is reduced from 71 to 32!
+
+
+It's Player 5's turn!
+Player 5 decides to Attack Player 4!
+Player 5 Attacks with 37 damage!
+Player 4 Health is reduced from 100 to 63!
+
+Mustafa's Health:  **********
+Player 2's Health: *******
+Player 3's Health: ******
+Player 4's Health: *******
+Player 5's Health: ****
+
+Mustafa it's your turn!
+Mustafa, which zombie do you want to attack?
+Please choose zombie 2, 3, 4 or 5 & a zombie which is not dead
+
+Mustafa decides to Attack Player 4!
+Mustafa Attacks with 28 damage!
+Player 4 Health is reduced from 63 to 35!
+
+
+It's Player 2's turn!
+Player 2 decides to Attack Mustafa!
+Player 2 Attacks with 32 damage!
+Mustafa Health is reduced from 100 to 68!
+
+
+It's Player 3's turn!
+Player 3 decides to Attack Player 4!
+Player 3 Attacks with 40 damage!
+Player 4 Health is reduced from 35 to 0!
+
+Player 4 is now DEAD!
+
+It's Player 5's turn!
+Player 5 decides to Attack Player 2!
+Player 5 Attacks with 42 damage!
+Player 2 Health is reduced from 61 to 19!
+
+Mustafa's Health:  *******
+Player 2's Health: **
+Player 3's Health: ******
+Player 4's Health: DEAD
+Player 5's Health: ****
+
+Mustafa it's your turn!
+Mustafa, which zombie do you want to attack?
+Please choose zombie 2, 3, 4 or 5 & a zombie which is not dead
+
+Mustafa decides to Attack Player 3!
+Mustafa Attacks with 40 damage!
+Player 3 Health is reduced from 55 to 15!
+
+
+It's Player 2's turn!
+Player 2 decides to Attack Mustafa!
+Player 2 Attacks with 33 damage!
+Mustafa Health is reduced from 68 to 35!
+
+
+It's Player 3's turn!
+Player 3 decides to Attack Player 5!
+Player 3 Attacks with 42 damage!
+Player 5 Health is reduced from 32 to 0!
+
+Player 5 is now DEAD!
+Mustafa's Health:  ****
+Player 2's Health: **
+Player 3's Health: **
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa it's your turn!
+Mustafa, which zombie do you want to attack?
+Please choose zombie 2, 3, 4 or 5 & a zombie which is not dead
+
+Mustafa decides to Attack Player 2!
+Mustafa Attacks with 39 damage!
+Player 2 Health is reduced from 19 to 0!
+
+Player 2 is now DEAD!
+
+It's Player 3's turn!
+Player 3 decides to Attack Mustafa!
+Player 3 Attacks with 25 damage!
+Mustafa Health is reduced from 35 to 10!
+
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: **
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa it's your turn!
+Mustafa, which zombie do you want to attack?
+Please choose zombie 2, 3, 4 or 5 & a zombie which is not dead
+
+Mustafa decides to Attack Player 3!
+Mustafa Attacks with 45 damage!
+Player 3 Health is reduced from 15 to 0!
+
+Player 3 is now DEAD!
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
+Mustafa's Health:  *
+Player 2's Health: DEAD
+Player 3's Health: DEAD
+Player 4's Health: DEAD
+Player 5's Health: DEAD
+
+Mustafa is the Winner!!!
+
+Thank you for Playing, this Program will now Terminate
